@@ -1,27 +1,27 @@
 [
   {
-	"id", 1,
+	"id": 1,
     "title": "Onda de lesões desfalca seleções nas competições internacionais",
     "description": "Ruptura de ligamento é, sozinha, responsável por quatro baixas importantes: Marta na Copa América, Catarina Macario no Campeonato da Concacaf, Alexia e Maroszán na Eurocopa",
     "image": "https://lucaslcslcs1998.github.io/soccer-news-api/image/1.jpg",
     "link": "https://ge.globo.com/futebol/futebol-internacional/noticia/2022/07/06/onda-de-lesoes-desfalca-selecoes-nas-competicoes-internacionais-do-futebol-feminino.ghtml"
   },
   {
-	"id", 2,
+	"id": 2,
     "title": "Jogadora relata racismo em jogo contra Sport",
     "description": "Natasha do Nascimento conta que ouviu gritos vindo da arquibancada, onde estava torcida do Sport para confronto pelas oitavas de final da Série A3 do Brasileiro Feminino",
     "image": "https://lucaslcslcs1998.github.io/soccer-news-api/image/2.jpg",
     "link": "https://ge.globo.com/pe/futebol/futebol-feminino/noticia/2022/07/04/jogadora-relata-racismo-em-jogo-contra-sport-e-arbitra-registra-na-sumula-me-chamaram-de-macaca.ghtml"
   },
   {
-	"id", 3,
+	"id": 3,
     "title": "Apesar de derrotas, Pia mantém confiança na seleção: 'Estaremos prontas para a Copa América'",
     "description": "Treinadora lamenta chances perdidas contra a Suécia e queda de rendimento físico da equipe",
     "image": "https://lucaslcslcs1998.github.io/soccer-news-api/image/3.jpg",
     "link": "https://ge.globo.com/futebol/selecao-brasileira/noticia/2022/06/28/apesar-de-derrotas-pia-mantem-confianca-na-selecao-estaremos-prontas-para-a-copa-america.ghtml"
   },
   {
-	"id", 4,
+	"id": 4,
     "title": "Zâmbia é a primeira seleção africana classificada para a Copa do Mundo Feminina de 2023",
     "description": "Equipe vence Senegal nos pênaltis, avança à semifinal da Copa Africana de Nações e garante participação inédita no Mundial",
     "image": "https://lucaslcslcs1998.github.io/soccer-news-api/image/4.jpg",
